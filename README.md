@@ -16,7 +16,8 @@ To do this, we use different binary classification techniques and compare the re
 
 ### Dataset :
 Dataset available under this link: https://www.kaggle.com/c/higgs-boson/data 
-it cannot be uploaded because of its size.
+
+It cannot be uploaded because of its size.
 
 ### Result:
 We got a score of 81% in crowdAI.
