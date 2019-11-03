@@ -1,5 +1,5 @@
 # Machine Learning Project 1 - Higgs Boson Dataset
-Code in Python. No external libraries were allowed except for visualisation purposes.
+Code in Python using Numpy only. No external libraries were allowed except for visualisation purposes.
 
 # Team Members
 
